@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transito</string>
+    <string name="conductor">Conductor</string>
+    <string name="vehiculo">Vehiculos</string>
+    <string name="reporte">Reportes</string>
+    <string name="bienvenida">Introduce tus credenciales para continuar</string>
+    <string name="telefono">Telefono</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="acceso">Iniciar sesión</string>
+    <string name="registro">Crear cuenta</string>
+</resources>
